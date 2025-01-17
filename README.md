@@ -1,11 +1,11 @@
-AutoModUpdate — это инструмент для автоматического поиска и обновления модов для Minecraft на платформе Modrinth. Скрипт анализирует моды в папке in, ищет их обновления на Modrinth и скачивает актуальные версии в папку out.
+AutoModUpdate is a tool for automatically searching and updating mods for Minecraft on the Modrinth platform. The script analyzes the mods in the in folder, searches for their updates on Morinth, and downloads the latest versions to the out folder.
 
 
-Сильно описивать нечего поэтому инструкция:
+There is nothing much to describe, so the instructions are:
 
-1. Скачайте архив и распакуйте в любую папку
-2. Запустите setup.py
-3. После в папку in закиньте моды которые нужно обновить
-4. Запустите detect_mods.py
-5. После запустите search_mods.py
-6. Введите нужные значения
+1. Download the archive and unzip it to any folder
+2. Launch setup.py
+3. After that, upload the mods that need to be updated to the in folder
+4. Launch detect_mods.py
+5. After that, run search_mods.py
+6. Enter the required values
