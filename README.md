@@ -8,4 +8,6 @@ There is nothing much to describe, so the instructions are:
 3. After that, upload the mods that need to be updated to the in folder
 4. Launch detect_mods.py
 5. After that, run search_mods.py
-6. Enter the required values
+6. Enter the required values\
+
+ONLY FORGE TO FORGE/FABRIC!!
